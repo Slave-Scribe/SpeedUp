@@ -1,6 +1,6 @@
 # SpeedUp Mod (Fork)
 
-![SpeedUp Banner](https://i.imgur.com/YWCrKgQ.png)
+![SpeedUp Banner](https://www.heypoorplayer.com/wp-content/uploads/2017/07/Starsector-Banner-2.jpg)
 
 A Starsector mod that lets you control game speed during combat and campaign.
 
